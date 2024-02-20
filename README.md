@@ -24,4 +24,4 @@ Nous accueillons favorablement les contributions de la communauté pour amélior
 
 ## Licence
 
-Ce projet est sous licence [Open source](FREE). 📝
+> Ce projet est sous licence [Open source](FREE). 📝
