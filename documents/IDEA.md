@@ -23,5 +23,3 @@ L'idée de l'application de partage de ressources est une initiative qui vise à
 - Favorise les liens sociaux et la solidarité entre les membres de la communauté.
 - Contribue à créer une économie circulaire et durable à l'échelle locale.
 - Offre une solution pratique et économique pour accéder à une variété de ressources.
-
-En mettant en œuvre cette idée, vous pouvez contribuer à renforcer le tissu social de votre communauté tout en favorisant une utilisation plus efficace des ressources disponibles.
