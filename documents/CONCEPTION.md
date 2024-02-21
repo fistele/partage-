@@ -39,4 +39,3 @@ Le diagramme de séquence illustre les interactions entre les objets du système
 Le diagramme de déploiement montre comment les différents composants logiciels sont déployés sur le matériel physique.
 
 ![Diagramme de déploiement](./diagrammes/diagram_de_deploiment.png)
-
