@@ -24,6 +24,10 @@ Le diagramme de classes représente les différentes classes du système et leur
 
 ![Diagramme de classes](./diagrammes/diagram_de_classe.png)
 
+##### > Dechateau : 
+- ajouter les catégories sur les ressources
+- ajouter l'attribu image sur la ressource
+
 ## 3. Diagramme de séquence 📈
 
 Le diagramme de séquence illustre les interactions entre les objets du système dans un scénario donné.

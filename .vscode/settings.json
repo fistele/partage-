@@ -1,5 +1,7 @@
 {
     "cSpell.enableFiletypes": [
+        "!javascript",
+        "!json",
         "!markdown",
         "!yaml"
     ]

@@ -20,7 +20,7 @@ L'objectif principal de Partage+ est de créer une plateforme conviviale où les
 
 ## Comment contribuer
 
-Nous accueillons favorablement les contributions de la communauté pour améliorer et étendre Partage+. Si vous souhaitez contribuer, veuillez consulter notre guide de contribution dans le fichier CONTRIBUTING.md. 🙌
+Nous accueillons favorablement les contributions de la communauté pour améliorer et étendre Partage+. Si vous souhaitez contribuer, veuillez consulter notre guide de contribution dans le fichier [CONTRIBUTION.md](./documents/CONTRIBUTING.md). 🙌
 
 ## Licence
 
