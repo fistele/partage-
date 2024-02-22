@@ -13,7 +13,8 @@ dotenv.config();
 
 //utilisation de express pour la création de notre application
 const app = express();
-app.use(cors())
+app.use(cors());
+
 //les endpoint de notre application afin de gérer les URL de notre site
 app.get("/", (req, res) => {
   res.send("Partage+");
@@ -30,13 +31,14 @@ mongoose
     process.exit();
   });
 
-  app.use(express.json());
-  app.use("/api/utilisateurs", utilisateurRouter);
-  app.use("/api/ressources", ressourceRouter);
-  app.use("/api/demandes", demandeRouter);
-  //lancement de notre application au port configuré dans .env
-app.listen(process.env.PORT, () => {
-    console.log("Le serveur écoute au port " + process.env.PORT);
-  });
+app.use(express.json());
+app.use("/api/utilisateurs", utilisateurRouter);
+app.use("/api/ressources", ressourceRouter);
+app.use("/api/demandes", demandeRouter);
 
-  module.exports = app;
+//lancement de notre application au port configuré dans .env
+app.listen(process.env.PORT, () => {
+  console.log("Le serveur écoute au port " + process.env.PORT);
+});
+
+module.exports = app;
