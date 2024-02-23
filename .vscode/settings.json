@@ -3,6 +3,7 @@
         "!javascript",
         "!json",
         "!markdown",
+        "!typescriptreact",
         "!yaml"
     ]
 }
