@@ -6,13 +6,13 @@ export const Footer = () => {
 
       <section className="container py-10 pb-14 text-center">
         <h3>
-          &copy; 2024 Landing page made by{" "}
+          &copy; 2024 Partage+ Propulsé par{" "}
           <a
             target="_blank"
             href="#"
             className="text-primary transition-all border-primary hover:border-b-2"
           >
-            tikosoftXtreme
+            tikoXtreme
           </a>
         </h3>
       </section>

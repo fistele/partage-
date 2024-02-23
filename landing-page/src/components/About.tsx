@@ -20,7 +20,7 @@ export const About = () => {
                 <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
                   A propos de{" "}
                 </span>
-                tikosoftXtreme
+                tikoXtreme
               </h2>
               <p className="text-xl text-muted-foreground mt-4">
               Une équipe de jeunes étudiants passionnés par l'informatique, 

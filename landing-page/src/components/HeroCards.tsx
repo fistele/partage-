@@ -58,14 +58,14 @@ export const HeroCards = () => {
           <Avatar>
             <AvatarImage
               alt=""
-              src="https://avatars.githubusercontent.com/u/91949555"
+              src="https://avatars.githubusercontent.com/u/134067544"
             />
             <AvatarFallback>MD</AvatarFallback>
           </Avatar>
 
           <div className="flex flex-col">
             <CardTitle className="text-lg">MAHOUKOU Dieuveil</CardTitle>
-            <CardDescription className="text-primary">@Dieuveil</CardDescription>
+            <CardDescription className="text-primary">@ParkerDieuveil</CardDescription>
           </div>
         </CardHeader>
 

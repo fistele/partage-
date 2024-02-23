@@ -23,7 +23,7 @@ export const Cta = () => {
         </div>
 
         <div className="space-y-4 lg:col-start-2">
-          <Button className="w-full md:mr-4 md:w-auto">Demandez une démonstration</Button>
+          <Button className="w-full md:mr-4 md:w-auto">Devenez beta testeur</Button>
         </div>
       </div>
     </section>

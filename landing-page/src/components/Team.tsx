@@ -60,7 +60,7 @@ const teamList: TeamProps[] = [
     ],
   },
   {
-    imageUrl: "https://avatars.githubusercontent.com/u/28824047",
+    imageUrl: "https://avatars.githubusercontent.com/u/134067544",
     name: "MAHOUKOU Dieuveil",
     position: "Membre D'équipe",
     description:
